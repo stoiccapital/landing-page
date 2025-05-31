@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/blogs/page": "app/blogs/page.js",
+  "/free-tools/gehaltsrechner/page": "app/free-tools/gehaltsrechner/page.js",
+  "/free-tools/co2-rechner/page": "app/free-tools/co2-rechner/page.js",
+  "/free-tools/page": "app/free-tools/page.js",
+  "/free-tools/fahrzeugkosten-rechner/page": "app/free-tools/fahrzeugkosten-rechner/page.js"
+}
