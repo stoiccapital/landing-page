@@ -20,14 +20,14 @@ const tools = [
     path: '/free-tools/co2-rechner'
   },
   {
+    title: 'Touren-Kalkulator',
+    description: 'Berechnen Sie die Kosten und Gewinnmarge für einzelne Touren inklusive Kraftstoff, Lohn und Fixkosten.',
+    path: '/free-tools/touren-kalkulator'
+  },
+  {
     title: 'Break-Even-Rechner',
     description: 'Ermitteln Sie die benötigte Kilometerleistung für die Gewinnschwelle.',
     path: '/free-tools/break-even-rechner'
-  },
-  {
-    title: 'Touren-Kalkulator',
-    description: 'Berechnen Sie die Kosten und Gewinnmarge für einzelne Touren.',
-    path: '/free-tools/touren-kalkulator'
   },
   {
     title: 'Lohnnebenkosten-Rechner',
