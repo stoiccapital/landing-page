@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import Navigation from './components/Navigation';
 
 export const metadata: Metadata = {
-  title: 'Landing Page',
-  description: 'A minimalist landing page built with Next.js and Tailwind CSS',
+  title: 'Tools für Transportunternehmen | Kostenlose Kalkulationstools',
+  description: 'Kostenlose Tools für Transportunternehmen: CO₂-Rechner, Fahrzeugkosten-Kalkulator & Gehaltsrechner. Anonym, sicher & sofort einsatzbereit. Keine Anmeldung erforderlich.',
 };
 
 export default function RootLayout({
